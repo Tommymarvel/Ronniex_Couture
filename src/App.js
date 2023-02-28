@@ -1,9 +1,10 @@
 import './index.css';
+import NavBar from './component/NavBar';
 
 function App() {
   return (
     <div className="App">
-      <h1 className="font-gloock font-extrabold text-5xl"> Hello world </h1>
+      <NavBar />
     </div>
   );
 }
