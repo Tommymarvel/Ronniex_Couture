@@ -1,0 +1,21 @@
+/* 
+header {
+  display: grid;
+  grid-template-columns: 20% 50% 30%;
+}
+
+h2 {
+  margin: 0.5rem;
+}
+
+ul {
+  display: flex;
+  color: brown;
+}
+
+li {
+  margin: 0.5rem;
+} */
+.logo {
+  margin-right: 3.5rem;
+}
